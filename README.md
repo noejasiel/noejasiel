@@ -22,14 +22,10 @@
 
 - ![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=noejasiel&show_icons=true&theme=radical)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noejasiel&layout=compact)](https://github.com/noejasiel)
-- [![Tiempo de programación en Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=noejasiel)](https://github.com/noejasiel)
-
-
-
 
 ## Contacto
 
 ¡No dudes en contactarme para hablar sobre cualquier cosa! Puedes encontrarme en:
 - LinkedIn: https://www.linkedin.com/in/noe-silva-8951ab1a1
 
-¡Gracias por visitar mi perfil! 😄
+¡Gracias por visitarmeee :pray: :pray:
