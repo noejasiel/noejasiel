@@ -1,6 +1,6 @@
 
 
-# ¡Hola! 👋 
+# 👋 Hola, ¿sabías que en Git hay ramas más torcidas que las de un árbol? 🌳
 
 ¡Bienvenido a mi perfil de Github! Soy Jasiel, un desarrollador web Jr apasionado por la musica. Me encanta aprender y siempre estoy buscando nuevos desafíos y oportunidades para crecer personal y profesionalmente.
 
