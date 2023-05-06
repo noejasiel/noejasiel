@@ -23,6 +23,8 @@
 - ![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=noejasiel&show_icons=true&theme=radical)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noejasiel&layout=compact)](https://github.com/noejasiel)
 - ![Actividad de Github](https://activity-graph.herokuapp.com/graph?username=noejasiel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noejasiel&layout=compact)](https://github.com/noejasiel)
+
 
 
 
