@@ -15,9 +15,9 @@
 
 - Lenguajes de programación: ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 , ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- Frameworks:  ![React](https://img.shields.io/badge/React-white?style=flat-square&logo=react), ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js), ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+- Frameworks:  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react), ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js), ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 - Bases de datos: ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql), ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-- Herramientas de control de versiones: ![Git](https://img.shields.io/badge/Git-white?style=flat-square&logo=git)
+- Herramientas de control de versiones: ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 
 ## Estadísticas de Github
 
