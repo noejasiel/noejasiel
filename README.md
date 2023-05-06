@@ -13,14 +13,14 @@
 
 ## Lenguajes y herramientas
 
-- Lenguajes de programación: Python, JavaScript.
+- Lenguajes de programación: Python, JavaScript
 -Frameworks:  React, Next.js 
--Bases de datos: MySQL, MongoDB.
--Herramientas de control de versiones: Git.
+-Bases de datos: MySQL, MongoDB
+-Herramientas de control de versiones: Git
 
 ## Estadísticas de Github
 
-[!noejasiel(https://github-readme-stats.vercel.app/api?username=tunombre&show_icons=true&theme=radical)](https://github.com/tunombre)
+[!noejasiel(https://github-readme-stats.vercel.app/api?username=noejasiel&show_icons=true&theme=radical)](https://github.com/noejasiel)
 
 ## Contacto
 
