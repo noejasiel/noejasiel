@@ -13,9 +13,9 @@
 
 ## Lenguajes y herramientas
 
-- Lenguajes de programación: ![Python](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=python)
+- Lenguajes de programación: ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 , ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- Frameworks:  ![React.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=react.js)
+- Frameworks:  ![React.js](https://img.shields.io/badge/-react.js-black?style=flat-square&logo=react.js)
 , ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js), ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 - Bases de datos: ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql), ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 - Herramientas de control de versiones: ![Git](https://img.shields.io/badge/Git-white?style=flat-square&logo=git)
