@@ -2,7 +2,7 @@
 
 # 👋 Hola
 
-¡Bienvenido a mi perfil de Github! Soy Jasiel, un desarrollador web Jr apasionado por la musica. Me encanta aprender y siempre estoy buscando nuevos desafíos y oportunidades para crecer personal y profesionalmente.
+¡Bienvenido a mi perfil de Github! Soy Jasiel, un desarrollador web Jr apasionado por la musica.
 
 ## Acerca de mí
 
